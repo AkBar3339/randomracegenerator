@@ -5,7 +5,8 @@ body {
 }
 
 .container {
-    width: 60%;
+    min-width: 720px;
+    max-width: 1080px;
     margin: 0 auto;
     background: #FFFFFF;
     min-height: 300px;
