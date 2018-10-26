@@ -17,6 +17,13 @@ function preload() {
 }
 
 function setup() {
+	let siteWidth = 1080;
+	let scale = screen.width / siteWidth;
+
+	document.querySelector('meta[name="viewport"]').setAttribute('content', 'width='+siteWidth+', initial-scale='+scale+'');
+
+
+
 	noLoop();
 	//get fields to wite random values
 	for (let i = 0; i < 4; i++)
