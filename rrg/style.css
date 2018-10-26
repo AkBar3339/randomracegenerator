@@ -9,7 +9,7 @@ body {
     max-width: 1080px;
     margin: 0 auto;
     background: #FFFFFF;
-    min-height: 300px;
+    height: 100%;
 }
 
 .button1 {
