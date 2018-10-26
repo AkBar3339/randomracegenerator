@@ -7,17 +7,37 @@ let selectedGameIndex;
 function preload() {
 	let carsPC = loadJSON("./data/carsPC.json");
 	let tracksPC = loadJSON("./data/tracksPC.json");
+	let carsAC = loadJSON("./data/carsAC.json");
+	let tracksAC = loadJSON("./data/tracksAC.json");
+	let carsACC = loadJSON("./data/carsACC.json");
+	let tracksACC = loadJSON("./data/tracksACC.json");
+	let carsRR = loadJSON("./data/carsRR.json");
+	let tracksRR = loadJSON("./data/tracksRR.json");
 
 	data = [
 		{
 			Cars: carsPC,
 			Tracks: tracksPC
+		},
+		{
+			Cars: carsAC,
+			Tracks: tracksAC
+		},
+		{
+			Cars: carsACC,
+			Tracks: tracksACC
+		},
+		{
+			Cars: carsRR,
+			Tracks: tracksRR
 		}
 	];
 }
 
 function setup() {
 	noLoop();
+	let makerField = document.getElementById("maker_field");
+	let modelField = document.getElementById("model_field");
 	//get fields to wite random values
 	for (let i = 0; i < 4; i++)
 	{
@@ -32,12 +52,32 @@ function setup() {
 	buttons[3] = document.getElementById("buttonRR");
 	buttons[0].addEventListener("click",() => {
 		selectedGameIndex = 0;
+		makerField.innerHTML = "Maker:";
+		modelField.innerHTML = "Model:";
 		let localData = data[selectedGameIndex];
 		generate(localData.Cars, localData.Tracks)
 	});
-	buttons[1]; //TODO
-	buttons[2]; //TODO
-	buttons[3]; //TODO
+	buttons[1].addEventListener("click",() => {
+		selectedGameIndex = 1;
+		makerField.innerHTML = "Maker:";
+		modelField.innerHTML = "Model:";
+		let localData = data[selectedGameIndex];
+		generate(localData.Cars, localData.Tracks)
+	});
+	buttons[2].addEventListener("click",() => {
+		selectedGameIndex = 2;
+		makerField.innerHTML = "Maker:";
+		modelField.innerHTML = "Model:";
+		let localData = data[selectedGameIndex];
+		generate(localData.Cars, localData.Tracks)
+	});
+	buttons[3].addEventListener("click",() => {
+		selectedGameIndex = 3;
+		makerField.innerHTML = "Series:";
+		modelField.innerHTML = "Car:";
+		let localData = data[selectedGameIndex];
+		generate(localData.Cars, localData.Tracks)
+	});
 	//find width of the buttons
 	
 	let buttonsContainer = document.getElementById("buttons");
