@@ -1,0 +1,582 @@
+﻿[
+	{
+		"Maker": "Audi",
+		"Model": "R8 LMS 2016"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "R8 LMS Ultra"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "R8 V10 Plus"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "S1"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "Sport quattro"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "Sport quattro S1 E2"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "TT Cup"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "TT RS (VLN)"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "1M"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M235i Racing"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M3 E30"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M3 E30 Group A"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M3 E92"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M3 GT2"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M4"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M4 Akrapovic"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "Z4 E89"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "Z4 GT3"
+	},
+	{
+		"Maker": "Chevrolet",
+		"Model": "Corvette C7 Stingray"
+	},
+	{
+		"Maker": "Chevrolet",
+		"Model": "Corvette C7R"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "250 GTO"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "312/67"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "312T"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "330 P4"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "458 GT2"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "458 Italia"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "488 GT3"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "488 GTB"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "599XX EVO"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "812 Superfast"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "F138"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "F2004"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "F40"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "FXX K"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "GTO"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "LaFerrari"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "SF15-T"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "SF70H"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Escort RS1600"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "GT40"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Mustang 2015"
+	},
+	{
+		"Maker": "KTM",
+		"Model": "X-Bow R"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Aventador SV"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Countach"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Gallardo SL"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Huracan GT3"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Huracan Performante"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Huracan ST"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Miura P400 SV"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Sesto Elemento"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "2-Eleven"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "2-Eleven GT4"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "3-Eleven"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Elise SC"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Evora GTC"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Evora GTE"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Evora GTE Carbon"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Evora GX"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Evora S"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Exige 240R"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Exige S"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Exige S Roadster"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Exige Scura"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Exige V6 CUP"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Exos 125"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "72D"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "98T"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Type 25"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Type 49"
+	},
+	{
+		"Maker": "Maserati",
+		"Model": "250F 12 cylinder"
+	},
+	{
+		"Maker": "Maserati",
+		"Model": "250F 6 cylinder"
+	},
+	{
+		"Maker": "Maserati",
+		"Model": "Alfieri"
+	},
+	{
+		"Maker": "Maserati",
+		"Model": "GranTurismo MC GT4"
+	},
+	{
+		"Maker": "Maserati",
+		"Model": "Levante S"
+	},
+	{
+		"Maker": "Maserati",
+		"Model": "MC12 GT1"
+	},
+	{
+		"Maker": "Maserati",
+		"Model": "Quattroporte GTS"
+	},
+	{
+		"Maker": "Mazda",
+		"Model": "787B"
+	},
+	{
+		"Maker": "Mazda",
+		"Model": "Miata NA"
+	},
+	{
+		"Maker": "Mazda",
+		"Model": "MX5 Cup"
+	},
+	{
+		"Maker": "Mazda",
+		"Model": "MX5 ND"
+	},
+	{
+		"Maker": "Mazda",
+		"Model": "RX-7 Spirit R"
+	},
+	{
+		"Maker": "Mazda",
+		"Model": "RX-7 Tuned"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "570S"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "650S GT3"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "F1 GTR"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "MP4-12C"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "MP4-12C GT3"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "P1"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "P1 GTR"
+	},
+	{
+		"Maker": "Mercedes",
+		"Model": "SLS AMG"
+	},
+	{
+		"Maker": "Mercedes",
+		"Model": "SLS AMG GT3"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "190E EVO II"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "AMG GT3"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "C9 1989 LM"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "370z Nismo"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "GT-R GT3"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "GT-R Nismo"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "Skyline GTR R34 V-Spec"
+	},
+	{
+		"Maker": "Pagani",
+		"Model": "Huayra"
+	},
+	{
+		"Maker": "Pagani",
+		"Model": "Huayra BC"
+	},
+	{
+		"Maker": "Pagani",
+		"Model": "Zonda R"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "718 Boxster S"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "718 Boxster S PDK"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "718 Cayman S"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "718 RS 60 Spyder"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "908 LH"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 Carrera RSR 3.0"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 Carrera S"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 GT1-98"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 GT3 Cup 2017"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 GT3 R 2016"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 GT3 RS"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 R"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 RSR 2017"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 Turbo S"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "917 K"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "917/30 Spyder"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "918 Spyder"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "919 Hybrid 2015"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "919 Hybrid 2016"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "935/78 'Moby Dick'"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "962 C Long Tail"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "962 C Short Tail"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "Cayenne Turbo S"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "Cayman GT4"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "Cayman GT4 Clubsport"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "Macan Turbo"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "Panamera Turbo"
+	},
+	{
+		"Maker": "Praga",
+		"Model": "R1"
+	},
+	{
+		"Maker": "RUF",
+		"Model": "CTR Yellowbird"
+	},
+	{
+		"Maker": "RUF",
+		"Model": "RT12 R "
+	},
+	{
+		"Maker": "RUF",
+		"Model": "RT12 R AWD"
+	},
+	{
+		"Maker": "P4/5",
+		"Model": "Competizione 2011"
+	},
+	{
+		"Maker": "SCG",
+		"Model": "003C"
+	},
+	{
+		"Maker": "Shelby",
+		"Model": "Cobra 427 S/C"
+	},
+	{
+		"Maker": "Tatuus",
+		"Model": "FA01"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "AE86"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "AE86 Drift"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "AE86 Tuned"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "Celica ST185 4WD Turbo"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "GT86"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "Supra MKIV"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "Supra MKIV Drift"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "Supra MKIV Time Attack"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "TS040 Hybrid 2014"
+	}
+]

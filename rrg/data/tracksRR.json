@@ -1,0 +1,46 @@
+﻿[
+	{
+		"Location": "Portimao Circuit",
+		"Track": "Grand Prix"
+	},
+	{
+		"Location": "Portimao Circuit",
+		"Track": "National"
+	},
+	{
+		"Location": "Portimao Circuit",
+		"Track": "Club"
+	},
+	{
+		"Location": "Portimao Circuit",
+		"Track": "Club Chicane"
+	},
+	{
+		"Location": "Raceroom Raceway",
+		"Track": "Grand Prix"
+	},
+	{
+		"Location": "Raceroom Raceway",
+		"Track": "Bridge"
+	},
+	{
+		"Location": "Raceroom Raceway",
+		"Track": "Classic"
+	},
+	{
+		"Location": "Raceroom Raceway",
+		"Track": "Classic Sprint"
+	},
+	{
+		"Location": "Raceroom Raceway",
+		"Track": "National"
+	},
+	{
+		"Location": "Stowe Circuit",
+		"Track": "Long"
+	},
+	{
+		"Location": "Stowe Circuit",
+		"Track": "Short"
+	}
+]

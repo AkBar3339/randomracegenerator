@@ -1,0 +1,150 @@
+﻿[
+	{
+		"Location": "Barcelona",
+		"Track": "GP"
+	},
+	{
+		"Location": "Barcelona",
+		"Track": "Moto"
+	},
+	{
+		"Location": "Black Cat Count",
+		"Track": "Main"
+	},
+	{
+		"Location": "Black Cat Count",
+		"Track": "Long"
+	},
+	{
+		"Location": "Black Cat Count",
+		"Track": "Short"
+	},
+	{
+		"Location": "Bransd Hatch",
+		"Track": "GP"
+	},
+	{
+		"Location": "Bransd Hatch",
+		"Track": "Indy"
+	},
+	{
+		"Location": "Highlands",
+		"Track": "Main"
+	},
+	{
+		"Location": "Highlands",
+		"Track": "Drift"
+	},
+	{
+		"Location": "Highlands",
+		"Track": "Long"
+	},
+	{
+		"Location": "Highlands",
+		"Track": "Short"
+	},
+	{
+		"Location": "Imola",
+		"Track": "GP"
+	},
+	{
+		"Location": "Laguna Seca",
+		"Track": "Main"
+	},
+	{
+		"Location": "Magione",
+		"Track": "Main"
+	},
+	{
+		"Location": "Monza",
+		"Track": "GP"
+	},
+	{
+		"Location": "Monza",
+		"Track": "1966 - Full Course"
+	},
+	{
+		"Location": "Monza",
+		"Track": "1966 - Junior Course"
+	},
+	{
+		"Location": "Monza",
+		"Track": "1966 - Road Course"
+	},
+	{
+		"Location": "Mugello",
+		"Track": "Main"
+	},
+	{
+		"Location": "Nordschleife",
+		"Track": "Main"
+	},
+	{
+		"Location": "Nordschleife",
+		"Track": "Endurance"
+	},
+	{
+		"Location": "Nordschleife",
+		"Track": "Endurance Cup"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "GP"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "GP (GT)"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Sprint"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Sprint (GT)"
+	},
+	{
+		"Location": "Red Bull Ring",
+		"Track": "GP"
+	},
+	{
+		"Location": "Red Bull Ring",
+		"Track": "National"
+	},
+	{
+		"Location": "Silverstone",
+		"Track": "International"
+	},
+	{
+		"Location": "Silverstone",
+		"Track": "National"
+	},
+	{
+		"Location": "Silverstone",
+		"Track": "1967"
+	},
+	{
+		"Location": "Silverstone",
+		"Track": "GP"
+	},
+	{
+		"Location": "Spa",
+		"Track": "Main"
+	},
+	{
+		"Location": "Vallelunga",
+		"Track": "Main"
+	},
+	{
+		"Location": "Vallelunga",
+		"Track": "Classic"
+	},
+	{
+		"Location": "Vallelunga",
+		"Track": "Club"
+	},
+	{
+		"Location": "Zandvoort",
+		"Track": "Main"
+	}
+]
