@@ -1,0 +1,770 @@
+﻿[
+	{
+		"Maker": "Acura",
+		"Model": "NSX"
+	},
+	{
+		"Maker": "Acura",
+		"Model": "NSX GT3"
+	},
+	{
+		"Maker": "Agajanian",
+		"Model": "Watson Roadster"
+	},
+	{
+		"Maker": "Aston Martin Racing",
+		"Model": "DB 11"
+	},
+	{
+		"Maker": "Aston Martin Racing",
+		"Model": "DBR1/300"
+	},
+	{
+		"Maker": "Aston Martin Racing",
+		"Model": "Vantage GT12"
+	},
+	{
+		"Maker": "Aston Martin Racing",
+		"Model": "Vantage GT3"
+	},
+	{
+		"Maker": "Aston Martin Racing",
+		"Model": "Vantage GT4"
+	},
+	{
+		"Maker": "Aston Martin Racing",
+		"Model": "Vantage GTE"
+	},
+	{
+		"Maker": "Aston Martin Racing",
+		"Model": "Vulcan"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "90 IMSA GTO"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "A1 quattro"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "R18 e-tron '14"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "R8 (LMP900)"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "R8 LMS"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "R8 LMS 24h"
+	},
+	{
+		"Maker": "Audi",
+		"Model": "R8 V10 Plus"
+	},
+	{
+		"Maker": "BAC",
+		"Model": "Mono"
+	},
+	{
+		"Maker": "Bentley",
+		"Model": "Continental GT3 '15"
+	},
+	{
+		"Maker": "Bentley",
+		"Model": "Continental GT3 '16"
+	},
+	{
+		"Maker": "Bentley",
+		"Model": "Continental GT3 24h"
+	},
+	{
+		"Maker": "Bentley",
+		"Model": "Speed 8"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "1M Coupe"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "1M Coupe StanceWorks"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "2002 StanceWorks"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "2002 Turbo"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "320 TC"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "320 Turbo"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M1 Procar"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M3 Group A"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M3 GT4"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M6 GT3"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "M6 GTLM"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "V12 LMR"
+	},
+	{
+		"Maker": "BMW",
+		"Model": "Z4 GT3"
+	},
+	{
+		"Maker": "Cadillac",
+		"Model": "ATS-V.R GT#"
+	},
+	{
+		"Maker": "Caterham",
+		"Model": "Seven 620 R"
+	},
+	{
+		"Maker": "Caterham",
+		"Model": "SP/300.R"
+	},
+	{
+		"Maker": "Chevrolet",
+		"Model": "Camaro Z/28 '69"
+	},
+	{
+		"Maker": "Chevrolet",
+		"Model": "Camaro ZL-1"
+	},
+	{
+		"Maker": "Chevrolet",
+		"Model": "Corvette C7.R"
+	},
+	{
+		"Maker": "Chevrolet",
+		"Model": "Corvette Z06"
+	},
+	{
+		"Maker": "Chevrolet",
+		"Model": "IR-12 Chevy Oval"
+	},
+	{
+		"Maker": "Chevrolet",
+		"Model": "IR-12 Chevy Road"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "288 GTO"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "330 P4"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "333 SP"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "265 GTB4"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "488 Challenge (APAC)"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "488 Challenge (EU)"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "488 Challenge (NA)"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "488 GT3"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "488 GTE"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "Enzo"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "F40 LM"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "F50 GT"
+	},
+	{
+		"Maker": "Ferrari",
+		"Model": "LaFerrari"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Escort RS1600"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Escort RS1600 (Racing)"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Escort RS1600 (RX)"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "F-150 RTR"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Falcon FG"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Focus RS RX"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Fusion"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "GT"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "GT LM GTE"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "MkIV"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Mustang '66"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Mustang Boss 320R"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Mustang Cobra TA"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Mustang GT"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Mustang RTR GT4"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Sierra Cosworth"
+	},
+	{
+		"Maker": "Ford",
+		"Model": "Zakspeed Capri"
+	},
+	{
+		"Maker": "Ginetta",
+		"Model": "G40 GT5"
+	},
+	{
+		"Maker": "Ginetta",
+		"Model": "G40 Junior"
+	},
+	{
+		"Maker": "Ginetta",
+		"Model": "G55 GT3"
+	},
+	{
+		"Maker": "Ginetta",
+		"Model": "G55 GT4"
+	},
+	{
+		"Maker": "Ginetta",
+		"Model": "G57"
+	},
+	{
+		"Maker": "Ginetta",
+		"Model": "Ginetta LMP3"
+	},
+	{
+		"Maker": "Honda",
+		"Model": "Civic Coupe GRC"
+	},
+	{
+		"Maker": "Honda",
+		"Model": "IR-12 Honda Oval"
+	},
+	{
+		"Maker": "Honda",
+		"Model": "IR-12 Honda Road"
+	},
+	{
+		"Maker": "Jaguar",
+		"Model": "F-Type SVR Coupe"
+	},
+	{
+		"Maker": "Jaguar",
+		"Model": "XJ220 S"
+	},
+	{
+		"Maker": "Jaguar",
+		"Model": "XJR-9"
+	},
+	{
+		"Maker": "Jaguar",
+		"Model": "XJR-9 LM"
+	},
+	{
+		"Maker": "KTM",
+		"Model": "X-Bow GT4"
+	},
+	{
+		"Maker": "KTM",
+		"Model": "X-Bow R"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Aventador"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Diablo GTR"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Huracan"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Huracan GT3"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Huracan ST"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Sesto Elemento"
+	},
+	{
+		"Maker": "Lamborghini",
+		"Model": "Veneno"
+	},
+	{
+		"Maker": "Ligier",
+		"Model": "JS P2 Honda"
+	},
+	{
+		"Maker": "Ligier",
+		"Model": "JS P2 Judd"
+	},
+	{
+		"Maker": "Ligier",
+		"Model": "JS P2 Nissan"
+	},
+	{
+		"Maker": "Ligier",
+		"Model": "JS P3"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 25"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 38"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 40"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 49"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 49C"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 51"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 56"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 72D"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 78"
+	},
+	{
+		"Maker": "Lotus",
+		"Model": "Lotus 98T"
+	},
+	{
+		"Maker": "Marek",
+		"Model": "RP 219D LMP2"
+	},
+	{
+		"Maker": "Marek",
+		"Model": "RP 339H LMP1"
+	},
+	{
+		"Maker": "Mazda",
+		"Model": "MX-5 Radbul"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "570S"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "650S GT3"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "720S"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "F1"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "F1 GTR LT"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "P1"
+	},
+	{
+		"Maker": "McLaren",
+		"Model": "P1 GTR"
+	},
+	{
+		"Maker": "Mercedes-AMG",
+		"Model": "A 45 4MATIC"
+	},
+	{
+		"Maker": "Mercedes-AMG",
+		"Model": "A 45 RX"
+	},
+	{
+		"Maker": "Mercedes-AMG",
+		"Model": "A 45 Touring"
+	},
+	{
+		"Maker": "Mercedes-AMG",
+		"Model": "AMG GT R"
+	},
+	{
+		"Maker": "Mercedes-AMG",
+		"Model": "AMG GT3"
+	},
+	{
+		"Maker": "Mercedes-AMG",
+		"Model": "C 63 Coupe S"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "190E 2.5-16 DTM"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "300 SEL 6.8"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "300 SL"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "CLK-LM"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "Sauber C9"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "Sauber C9 LM"
+	},
+	{
+		"Maker": "Mercedes-Benz",
+		"Model": "SLS AMG GT3"
+	},
+	{
+		"Maker": "Mini",
+		"Model": "Countryman RX"
+	},
+	{
+		"Maker": "Mitsubishi",
+		"Model": "Lancer Evo IX"
+	},
+	{
+		"Maker": "Mitsubishi",
+		"Model": "Lancer Evo VI SVA"
+	},
+	{
+		"Maker": "Mitsubishi",
+		"Model": "Lancer Evo VI TME"
+	},
+	{
+		"Maker": "Mitsubishi",
+		"Model": "Lancer Evo X"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "240ZG GTS"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "300ZX Turbo IMSA"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "300ZX Turbo LM"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "GT-R GT3"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "GT-R Nismo"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "GTP ZX-T"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "Nissan R89C"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "Nissan R89C LM"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "R390 GT1"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "Skyline Sihouette"
+	},
+	{
+		"Maker": "Nissan",
+		"Model": "Skyline SMS-R"
+	},
+	{
+		"Maker": "Olsbergs MSE",
+		"Model": "RX Supercar Lite"
+	},
+	{
+		"Maker": "Oreca",
+		"Model": "Oreca 03"
+	},
+	{
+		"Maker": "Pagani",
+		"Model": "Huayra BC"
+	},
+	{
+		"Maker": "Pagani",
+		"Model": "Zonda Cinque"
+	},
+	{
+		"Maker": "Pagani",
+		"Model": "Zonda Revolucion"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 GT1-98"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 GT3 R"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 GT3 R 24h"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "911 GT3 RS"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "918 Spyder"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "935/77"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "935/80"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "936 Spyder"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "962C"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "962C LH"
+	},
+	{
+		"Maker": "Porsche",
+		"Model": "Cayman GT4 MR"
+	},
+	{
+		"Maker": "Radical",
+		"Model": "RXC Turbo"
+	},
+	{
+		"Maker": "Radical",
+		"Model": "SR3-RS"
+	},
+	{
+		"Maker": "Radical",
+		"Model": "SR8-RX"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "Alpine A442B"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "Clio Cup"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "Formula Renault"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "Megane RS 275"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "Megane RX"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "Megane Touring"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "Megane V6"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "R.S. 01"
+	},
+	{
+		"Maker": "Renault",
+		"Model": "R.S. 01 GT3"
+	},
+	{
+		"Maker": "RWD",
+		"Model": "P20 LMP2"
+	},
+	{
+		"Maker": "RWD",
+		"Model": "P30 LMP1"
+	},
+	{
+		"Maker": "SMS",
+		"Model": "Formula A"
+	},
+	{
+		"Maker": "SMS",
+		"Model": "Formula C"
+	},
+	{
+		"Maker": "SMS",
+		"Model": "Formula R"
+	},
+	{
+		"Maker": "SMS",
+		"Model": "Formula X"
+	},
+	{
+		"Maker": "SMS",
+		"Model": "Kart"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "86"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "GT-86"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "GT-86 RB"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "GT-86 RB GT4"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "GT-One '98"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "GT-One '99"
+	},
+	{
+		"Maker": "Toyota",
+		"Model": "TS040"
+	},
+	{
+		"Maker": "Volkswagen",
+		"Model": "Polo RX"
+	}
+]

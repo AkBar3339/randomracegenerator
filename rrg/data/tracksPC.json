@@ -1,0 +1,522 @@
+﻿[
+	{
+		"Location": "Algarve",
+		"Track": "Autodromo Internacional do Algrave"
+	},
+	{
+		"Location": "Azure Circuit",
+		"Track": "Azure Circuit"
+	},
+	{
+		"Location": "Azure Coast",
+		"Track": "Azure Coast"
+	},
+	{
+		"Location": "Azure Coast",
+		"Track": "Azure Coast - part 1"
+	},
+	{
+		"Location": "Azure Coast",
+		"Track": "Azure Coast - part 2"
+	},
+	{
+		"Location": "Azure Coast",
+		"Track": "Azure Coast - part 3"
+	},
+	{
+		"Location": "Azure Coast",
+		"Track": "Azure Coast - to the West"
+	},
+	{
+		"Location": "Bannochbrae",
+		"Track": "Bannochbrae - Road Course"
+	},
+	{
+		"Location": "Barcelona-Catalunya",
+		"Track": "Circuit de Barcelona-Catalunya GP"
+	},
+	{
+		"Location": "Barcelona-Catalunya",
+		"Track": "Circuit de Barcelona-Catalunya - Club Circuit"
+	},
+	{
+		"Location": "Barcelona-Catalunya",
+		"Track": "Circuit de Barcelona-Catalunya GP - National"
+	},
+	{
+		"Location": "Bathurst",
+		"Track": "Bathurst Mount Panorama"
+	},
+	{
+		"Location": "Brands Hatch",
+		"Track": "Brands Hatch GP"
+	},
+	{
+		"Location": "Brands Hatch",
+		"Track": "Brands Hatch Indy"
+	},
+	{
+		"Location": "Brno",
+		"Track": "Brno GP"
+	},
+	{
+		"Location": "Cadwell Park",
+		"Track": "Cadwell Park GP"
+	},
+	{
+		"Location": "Cadwell Park",
+		"Track": "Cadwell Park - Club Circuit"
+	},
+	{
+		"Location": "Cadwell Park",
+		"Track": "Cadwell Park Woodland"
+	},
+	{
+		"Location": "California Highway",
+		"Track": "California Highway - Full Circuit"
+	},
+	{
+		"Location": "California Highway",
+		"Track": "California Highway - part 1"
+	},
+	{
+		"Location": "California Highway",
+		"Track": "California Highway - part 2"
+	},
+	{
+		"Location": "California Highway",
+		"Track": "California Highway - part 3"
+	},
+	{
+		"Location": "California Highway",
+		"Track": "California Highway - Backwards"
+	},
+	{
+		"Location": "Circuit of the Americas",
+		"Track": "Circuit of the Americas GP"
+	},
+	{
+		"Location": "Circuit of the Americas",
+		"Track": "Circuit of the Americas - National Circuit"
+	},
+	{
+		"Location": "Circuit of the Americas",
+		"Track": "Circuit of the Americas - Club Circuit"
+	},
+	{
+		"Location": "Daytona International Speedway",
+		"Track": "Daytona International Speedway Tri-Oval"
+	},
+	{
+		"Location": "Daytona International Speedway",
+		"Track": "Daytona Road Course"
+	},
+	{
+		"Location": "Daytona International Speedway",
+		"Track": "Daytona International Speedway Rallycross"
+	},
+	{
+		"Location": "DirtFish",
+		"Track": "DirtFish Pro Rallycross Course"
+	},
+	{
+		"Location": "DirtFish",
+		"Track": "DirtFish Mill Run Course"
+	},
+	{
+		"Location": "DirtFish",
+		"Track": "DirtFish Boneyard Course"
+	},
+	{
+		"Location": "Donington Park",
+		"Track": "Donington Park GP"
+	},
+	{
+		"Location": "Donington Park",
+		"Track": "Donington Park - National"
+	},
+	{
+		"Location": "Dubai Autodrome",
+		"Track": "Dubai Autodrome GP"
+	},
+	{
+		"Location": "Dubai Autodrome",
+		"Track": "Dubai Autodrome - National"
+	},
+	{
+		"Location": "Dubai Autodrome",
+		"Track": "Dubai Autodrome - International"
+	},
+	{
+		"Location": "Dubai Autodrome",
+		"Track": "Dubai Autodrome - Club Circuit"
+	},
+	{
+		"Location": "Fuji",
+		"Track": "Fuji GP"
+	},
+	{
+		"Location": "GP Autodromo Nazionale Monza",
+		"Track": "Autodromo Nazionale Monza GP Historic"
+	},
+	{
+		"Location": "GP Autodromo Nazionale Monza",
+		"Track": "Autodromo Nazionale Monza Oval Historic"
+	},
+	{
+		"Location": "GP Autodromo Nazionale Monza",
+		"Track": "Autodromo Nazionale Monza Historic Oval + GP Mix"
+	},
+	{
+		"Location": "Hell RX",
+		"Track": "Lankebanen Rallycross"
+	},
+	{
+		"Location": "Hockenheim Classic",
+		"Track": "Hockenheim Classic GP"
+	},
+	{
+		"Location": "Hockenheimring",
+		"Track": "Hockenheim GP"
+	},
+	{
+		"Location": "Hockenheimring",
+		"Track": "Hockenheim - National"
+	},
+	{
+		"Location": "Hockenheimring",
+		"Track": "Hockenheim - Short"
+	},
+	{
+		"Location": "Hockenheimring",
+		"Track": "Hockenheim - Rallycross"
+	},
+	{
+		"Location": "Imola",
+		"Track": "Autodromo Internazionale Enzo E Dino Ferrari Imola"
+	},
+	{
+		"Location": "Indianapolis Motor Speedway",
+		"Track": "Indianapolis Motor Speedway Owal"
+	},
+	{
+		"Location": "Indianapolis Motor Speedway",
+		"Track": "Indianapolis Motor Speedway Road Course"
+	},
+	{
+		"Location": "Knockhill",
+		"Track": "Knockhill - International"
+	},
+	{
+		"Location": "Knockhill",
+		"Track": "Knockhill - International Bacwards"
+	},
+	{
+		"Location": "Knockhill",
+		"Track": "Knockhill - National Course"
+	},
+	{
+		"Location": "Knockhill",
+		"Track": "Knockhill - National Course Backwards"
+	},
+	{
+		"Location": "Knockhill",
+		"Track": "Knockhill Tri-Oval"
+	},
+	{
+		"Location": "Laguna Seca",
+		"Track": "Mazda Raceway Laguna Seca"
+	},
+	{
+		"Location": "Le Mans",
+		"Track": "24 Hours of Le Mans Circuit"
+	},
+	{
+		"Location": "Le Mans",
+		"Track": "Le Mans Bugatti Circuit"
+	},
+	{
+		"Location": "Mercedes-Benz Ice Circuit",
+		"Track": "Mercedes-Benz Ice Circuit no. 1"
+	},
+	{
+		"Location": "Mercedes-Benz Ice Circuit",
+		"Track": "Mercedes-Benz Ice Circuit no. 2"
+	},
+	{
+		"Location": "Mercedes-Benz Ice Circuit",
+		"Track": "Mercedes-Benz Ice Circuit no. 3"
+	},
+	{
+		"Location": "Mercedes-Benz Ice Circuit",
+		"Track": "Mercedes-Benz Ice Circuit no. 4"
+	},
+	{
+		"Location": "Mercedes-Benz Ice Circuit",
+		"Track": "Mercedes-Benz Ice Circuit no. 5"
+	},
+	{
+		"Location": "Mercedes-Benz Ice Circuit",
+		"Track": "Mercedes-Benz Ice Circuit full"
+	},
+	{
+		"Location": "Loheac",
+		"Track": "Rallycross of Loheac"
+	},
+	{
+		"Location": "Long Beach",
+		"Track": "Long Beach Street Circuit"
+	},
+	{
+		"Location": "Lydden Hill",
+		"Track": "Lydden Hill Rallycross"
+	},
+	{
+		"Location": "Lydden Hill",
+		"Track": "Lydden Hill GP"
+	},
+	{
+		"Location": "Mojave",
+		"Track": "Mojave Sidewinder"
+	},
+	{
+		"Location": "Mojave",
+		"Track": "Mojave - Boa Incline"
+	},
+	{
+		"Location": "Mojave",
+		"Track": "Mojave - Coyote Course"
+	},
+	{
+		"Location": "Mojave",
+		"Track": "Mojave - Ridge of Bullfinch"
+	},
+	{
+		"Location": "Mojave",
+		"Track": "Mojave - Ridge of Cougar"
+	},
+	{
+		"Location": "Monza",
+		"Track": "Autodromo Nazionale Monza GP Historic"
+	},
+	{
+		"Location": "Monza",
+		"Track": "Autodromo Nazionale Monza - Short"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring GP"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring Nordschleife"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring - Full"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring Muellenbach"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring - Sprint"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring - Sprint (Short)"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring Nordschleife - part 1"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring Nordschleife - part 2"
+	},
+	{
+		"Location": "Nurburgring",
+		"Track": "Nurburgring Nordschleife - part 3"
+	},
+	{
+		"Location": "Oschersleben",
+		"Track": "Oschersleben A Course"
+	},
+	{
+		"Location": "Oschersleben",
+		"Track": "Oschersleben B Course"
+	},
+	{
+		"Location": "Oschersleben",
+		"Track": "Oschersleben C Course"
+	},
+	{
+		"Location": "Oulton Park",
+		"Track": "Oulton Park - International"
+	},
+	{
+		"Location": "Oulton Park",
+		"Track": "Oulton Park Island"
+	},
+	{
+		"Location": "Oulton Park",
+		"Track": "Oulton Park Fosters"
+	},
+	{
+		"Location": "Red Bull Ring",
+		"Track": "Red Bull Ring GP"
+	},
+	{
+		"Location": "Red Bull Ring",
+		"Track": "Red Bull Ring - National Circuit"
+	},
+	{
+		"Location": "Red Bull Ring",
+		"Track": "Red Bull Ring - Club Circuit"
+	},
+	{
+		"Location": "Road America",
+		"Track": "Road America"
+	},
+	{
+		"Location": "Rouen Les Essarts",
+		"Track": "Rouen Les Essarts"
+	},
+	{
+		"Location": "Rouen Les Essarts",
+		"Track": "Rouen Les Essarts - Short"
+	},
+	{
+		"Location": "Ruapuna Park",
+		"Track": "Ruapuna Park GP"
+	},
+	{
+		"Location": "Ruapuna Park",
+		"Track": "Ruapuna Park - Outside Loop"
+	},
+	{
+		"Location": "Ruapuna Park",
+		"Track": "Ruapuna Park - Club Circuit"
+	},
+	{
+		"Location": "Ruapuna Park",
+		"Track": "Ruapuna Park A Course"
+	},
+	{
+		"Location": "Ruapuna Park",
+		"Track": "Ruapuna Park B Course"
+	},
+	{
+		"Location": "Sakitto",
+		"Track": "Sakitto GP"
+	},
+	{
+		"Location": "Sakitto",
+		"Track": "Sakitto - Sprint"
+	},
+	{
+		"Location": "Sakitto",
+		"Track": "Sakitto - National"
+	},
+	{
+		"Location": "Silverstone",
+		"Track": "Silverstone GP"
+	},
+	{
+		"Location": "Silverstone",
+		"Track": "Silverstone - International"
+	},
+	{
+		"Location": "Silverstone",
+		"Track": "Silverstone - National"
+	},
+	{
+		"Location": "Silverstone",
+		"Track": "Silverstone Stowe"
+	},
+	{
+		"Location": "Silverstone - Classic",
+		"Track": "Silverstone Classic GP"
+	},
+	{
+		"Location": "Snetterton",
+		"Track": "Snetterton 300"
+	},
+	{
+		"Location": "Snetterton",
+		"Track": "Snetterton 200"
+	},
+	{
+		"Location": "Snetterton",
+		"Track": "Snetterton 100"
+	},
+	{
+		"Location": "Sonoma Raceway",
+		"Track": "Sonoma Raceway Gp"
+	},
+	{
+		"Location": "Sonoma Raceway",
+		"Track": "Sonoma Raceway - National"
+	},
+	{
+		"Location": "Sonoma Raceway",
+		"Track": "Sonoma Raceway - Short"
+	},
+	{
+		"Location": "Spa Francorchamps",
+		"Track": "Circuit de Spa-Frncorchamps GP"
+	},
+	{
+		"Location": "Spa Francorchamps Historic",
+		"Track": "Circuit de Spa-Frncorchamps Historic"
+	},
+	{
+		"Location": "Sugo",
+		"Track": "Sportsland SUGO"
+	},
+	{
+		"Location": "Texas Motor Speedway",
+		"Track": "Texas Motor Speedway"
+	},
+	{
+		"Location": "Texas Motor Speedway",
+		"Track": "Texas Motor Speedway Road Course"
+	},
+	{
+		"Location": "Texas Motor Speedway",
+		"Track": "Texas Motor Speedway Infield Course"
+	},
+	{
+		"Location": "Sampala Ice Circuit",
+		"Track": "Sampala Ice Circuit"
+	},
+	{
+		"Location": "Watkins Glen - International",
+		"Track": "Watkins Glen International GP"
+	},
+	{
+		"Location": "Watkins Glen - International",
+		"Track": "Watkins Glen International - Short"
+	},
+	{
+		"Location": "Wildcrest Rallycross",
+		"Track": "Wildcrest Rallycross"
+	},
+	{
+		"Location": "Willow Springs",
+		"Track": "Willow Springs International Raceway"
+	},
+	{
+		"Location": "Willow Springs",
+		"Track": "Willow Springs Horse Thief Mile"
+	},
+	{
+		"Location": "Zhuhai",
+		"Track": "Zhuhai Interantional Circuit"
+	},
+	{
+		"Location": "Zolder",
+		"Track": "Zolder"
+	}
+]
