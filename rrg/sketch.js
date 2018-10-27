@@ -1,10 +1,10 @@
 let data;
-let games = ["Project Cars", "Assetto Corsa", "Assetto Corsa Competizione", "RaceRoom"];
 let fields = [];
 let generatedCarTitleContainer;
 let selectedGameIndex;
 
 function preload() {
+	//load jsons with data
 	let carsPC = loadJSON("./data/carsPC.json");
 	let tracksPC = loadJSON("./data/tracksPC.json");
 	let carsAC = loadJSON("./data/carsAC.json");
@@ -14,92 +14,91 @@ function preload() {
 	let carsRR = loadJSON("./data/carsRR.json");
 	let tracksRR = loadJSON("./data/tracksRR.json");
 
+	//create an array of objects containing data
 	data = [
 		{
 			Cars: carsPC,
-			Tracks: tracksPC
+			Tracks: tracksPC,
+			Label1: "Maker:",
+			Label2: "Model:",
+			CarsListLength: undefined,
+			TracksListLength: undefined,
+			Game: "Project Cars 2"
 		},
 		{
 			Cars: carsAC,
-			Tracks: tracksAC
+			Tracks: tracksAC,
+			Label1: "Maker:",
+			Label2: "Model:",
+			CarsListLength: undefined,
+			TracksListLength: undefined,
+			Game: "Assetto Corsa"
 		},
 		{
 			Cars: carsACC,
-			Tracks: tracksACC
+			Tracks: tracksACC,
+			Label1: "Maker:",
+			Label2: "Model:",
+			CarsListLength: undefined,
+			TracksListLength: undefined,
+			Game: "Assetto Corsa Competizione"
 		},
 		{
 			Cars: carsRR,
-			Tracks: tracksRR
+			Tracks: tracksRR,
+			Label1: "Series:",
+			Label2: "Car:",
+			CarsListLength: undefined,
+			TracksListLength: undefined,
+			Game: "RaceRoom"
 		}
 	];
 }
 
 function setup() {
 	noLoop();
+	for (let i = 0; i < data.length; i++) {
+		data[i].CarsListLength = Object.keys(data[i].Cars).length;
+		data[i].TracksListLength = Object.keys(data[i].Tracks).length;
+	}
+	//get fields to wite values
 	let makerField = document.getElementById("maker_field");
 	let modelField = document.getElementById("model_field");
-	//get fields to wite random values
-	for (let i = 0; i < 4; i++)
-	{
+	for (let i = 0; i < 4; i++) {
 		fields[i] = document.getElementById(`generated${i}`);
 	}
 	selectedGameIndex = 0;
 	// get buttons
 	let buttons = [];
-	buttons[0] = document.getElementById("buttonPC");
-	buttons[1] = document.getElementById("buttonAC");
-	buttons[2] = document.getElementById("buttonACC");
-	buttons[3] = document.getElementById("buttonRR");
-	buttons[0].addEventListener("click",() => {
-		selectedGameIndex = 0;
-		makerField.innerHTML = "Maker:";
-		modelField.innerHTML = "Model:";
-		let localData = data[selectedGameIndex];
-		generate(localData.Cars, localData.Tracks)
-	});
-	buttons[1].addEventListener("click",() => {
-		selectedGameIndex = 1;
-		makerField.innerHTML = "Maker:";
-		modelField.innerHTML = "Model:";
-		let localData = data[selectedGameIndex];
-		generate(localData.Cars, localData.Tracks)
-	});
-	buttons[2].addEventListener("click",() => {
-		selectedGameIndex = 2;
-		makerField.innerHTML = "Maker:";
-		modelField.innerHTML = "Model:";
-		let localData = data[selectedGameIndex];
-		generate(localData.Cars, localData.Tracks)
-	});
-	buttons[3].addEventListener("click",() => {
-		selectedGameIndex = 3;
-		makerField.innerHTML = "Series:";
-		modelField.innerHTML = "Car:";
-		let localData = data[selectedGameIndex];
-		generate(localData.Cars, localData.Tracks)
-	});
+	for (let i = 0; i < 4; i++) {
+		buttons[i] = document.getElementById(`button${i}`);
+		buttons[i].addEventListener("click",() => {
+			selectedGameIndex = i;
+			makerField.innerHTML = data[i].Label1; //changing labels for raceroom
+			modelField.innerHTML = data[i].Label2;
+			let localData = data[selectedGameIndex];
+			generate(localData.Cars, localData.Tracks) //generating random race
+		});
+	}
 	//find width of the buttons
-	
 	let buttonsContainer = document.getElementById("buttons");
 	let buttonsWidth = 0;
-	for (let button of buttons)
-	{
-		buttonsWidth += button.clientWidth;
+	for (let button of buttons) {
+		buttonsWidth += button.offsetWidth;
 	} 
+	buttonsWidth++;
 	buttonsContainer.style.width = `${buttonsWidth}px`;
-	
+	// write name of the generated game
 	generatedCarTitleContainer = document.getElementById("generated_car");
-	
+	// generate for the first time
 	generate(data[selectedGameIndex].Cars, data[selectedGameIndex].Tracks);
 }
 
 
 function generate(cars, tracks) {
-	generatedCarTitleContainer.innerHTML = games[selectedGameIndex];
-	let carListLength = Object.keys(cars).length;
-	let tracksListLength = Object.keys(tracks).length;
-	let randomCar = floor(random(0, carListLength + 1));
-	let randomTrack = floor(random(0, tracksListLength + 1));
+	generatedCarTitleContainer.innerHTML = data[selectedGameIndex].Game; //change displayed game title 
+	let randomCar = floor(random(0, data[selectedGameIndex].CarsListLength));
+	let randomTrack = floor(random(0, data[selectedGameIndex].TracksListLength));
 	fields[0].innerHTML = cars[randomCar].Maker;
 	fields[1].innerHTML = cars[randomCar].Model;
 	fields[2].innerHTML = tracks[randomTrack].Location;
